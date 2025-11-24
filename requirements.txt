@@ -16,7 +16,7 @@ azure-search-documents
 httpx
 ipykernel
 pillow
-python-dotenv
+python-dotenv==1.0.1
 pandas
 uvicorn
 nest-asyncio
